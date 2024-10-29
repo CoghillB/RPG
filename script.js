@@ -1,3 +1,7 @@
+// Author: Brayden Coghill
+// Last Modified: 2021-05-06
+// Description: A text-based adventure game where the player can buy health, weapons, and fight monsters.
+
 let xp = 0;
 let health = 100;
 let gold = 50;
@@ -6,6 +10,7 @@ let fighting;
 let monsterHealth;
 let inventory = ["stick"];
 
+// DOM elements
 const button1 = document.querySelector('#button1');
 const button2 = document.querySelector("#button2");
 const button3 = document.querySelector("#button3");
