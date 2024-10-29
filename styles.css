@@ -13,20 +13,20 @@ body {
     max-height: 400px;
     background-color: #ffffff;
     color: #ffffff;
-    margin: 30px auto 0px;
+    margin: 30px auto 0;
     padding: 10px;
 }
 
 #controls,
 #stats {
-    border: 1px solid #0a0a23;
+    border: 1px solid black;
     padding: 5px;
-    color: #0a0a23;
+    color: black;
 }
 
 #monsterStats {
     display: none;
-    border: 1px solid #0a0a23;
+    border: 1px solid black;
     padding: 5px;
     color: #ffffff;
     background-color: #c70d0d;
@@ -40,6 +40,6 @@ button {
     cursor: pointer;
     color: black;
     background-color: darkred;
-    background-image: linear-gradient(red, darkred);
-    border: 3px solid black;;
+    background-image: linear-gradient(indianred, darkred);
+    border: 2px solid black;
 }
