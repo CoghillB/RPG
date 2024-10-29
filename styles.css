@@ -1,9 +1,9 @@
 body {
-    background-color: #0a0a23;
+    background-color: dimgray;
 }
 
 #text {
-    background-color: #0a0a23;
+    background-color: dimgray;
     color: #ffffff;
     padding: 10px;
 }
@@ -38,8 +38,8 @@ body {
 
 button {
     cursor: pointer;
-    color: #0a0a23;
-    background-color: #feac32;
-    background-image: linear-gradient(#fecc4c, #ffac33);
-    border: 3px solid #feac32;
+    color: black;
+    background-color: darkred;
+    background-image: linear-gradient(red, darkred);
+    border: 3px solid black;;
 }
